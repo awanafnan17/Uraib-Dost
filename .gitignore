@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.pages/
+.env*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+*.log
+*.sql
+*.db
+*.sqlite*
+smtp_config.php
+.htaccess
+.vercel/
+.wrangler/
+*.zip
