@@ -19,7 +19,7 @@ typed content in src/lib/constants.ts
                                  motion, filtering, forms
 ~~~
 
-The site uses the Next.js App Router and the static export output mode. Page modules produce the initial semantic HTML at build time. Components that require browser state—navigation menus, portfolio filters, motion, counters, FAQ disclosure and the contact form—are explicit client components.
+The site uses the Next.js App Router and static export output mode. Page modules produce the initial semantic HTML at build time. Navigation menus, portfolio filters, motion, counters, FAQ disclosure, and the contact form use explicit client components because they require browser state.
 
 ## Route generation
 

@@ -1,6 +1,6 @@
 # Buildora Projects
 
-The source project recovered from the **Uraib Dost** archive: a premium construction and interior-fit-out portfolio for Buildora Projects.
+This repository contains the Buildora Projects website recovered from the **Uraib Dost** archive. It is a construction and interior fit-out portfolio for a business in Lahore, Pakistan.
 
 [Live demo](https://awanafnan17.github.io/Uraib-Dost/) · [Architecture](docs/ARCHITECTURE.md) · [Deployment guide](docs/DEPLOYMENT.md)
 
@@ -8,13 +8,13 @@ The source project recovered from the **Uraib Dost** archive: a premium construc
 
 ## Overview
 
-Buildora is a responsive, multi-page company website built for a construction brand operating from Lahore, Pakistan. It combines a restrained monochrome design system with motion-led storytelling, detailed project pages, structured business data and a production-ready static export.
+The website uses a restrained black, silver, and white design with motion-led sections, detailed project pages, structured business data, and a static export.
 
 This repository preserves the website brand as **Buildora Projects** while retaining the exact public repository name **Uraib-Dost** requested for the archived project.
 
 ## Experience
 
-- A cinematic construction hero with focused calls to action.
+- A full-width construction hero with clear calls to action.
 - Dedicated About, Services, Projects, Factory and Contact experiences.
 - Fourteen statically generated project-detail routes.
 - Filterable project portfolio across commercial, hospitality, restaurant, banking and residential work.
@@ -126,5 +126,5 @@ The frontend and static demo are complete and build successfully. Business copy,
 
 ## Author
 
-Built and documented by [Afnan Mehmood Awan](https://github.com/awanafnan17).
+Built by [Afnan Mehmood Awan](https://github.com/awanafnan17).
 
